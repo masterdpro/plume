@@ -1,2 +1,2 @@
 # plume
-plume bot
+plume bot pour discord
